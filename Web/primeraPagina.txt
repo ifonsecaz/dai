@@ -1,0 +1,11 @@
+<!--este es mi primera página Web-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>mi página</title>
+	</head>
+	<body>
+		<h1>este es un encabezado tipo 1</h1>
+		<p>este es un párrafo</p>
+	</body>
+</html>

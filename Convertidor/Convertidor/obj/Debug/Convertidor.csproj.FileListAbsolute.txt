@@ -1,0 +1,15 @@
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\bin\Debug\Convertidor.exe.config
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\bin\Debug\Convertidor.exe
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\bin\Debug\Convertidor.pdb
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor_MarkupCompile.cache
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor_MarkupCompile.lref
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.g.resources
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.Properties.Resources.resources
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.exe
+C:\Users\dai\Desktop\vsIsrael\Convertidor\Convertidor\obj\Debug\Convertidor.pdb

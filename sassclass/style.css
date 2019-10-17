@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #badc58;
+}
+
+a:link, a:visited {
+    color: #f6e58d;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.2s;
+}
+
+a:hover, a:active {
+    border-bottom: 2px solid #badc58;
+}

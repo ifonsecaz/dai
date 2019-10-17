@@ -1,0 +1,1 @@
+Data Source=CC101-20\SA;Initial Catalog=baseSistemaAlumno;User ID=sa;Password=adminadmin

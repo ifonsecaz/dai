@@ -1,0 +1,15 @@
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\bin\Debug\CalculadoraMaizoro.exe.config
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\bin\Debug\CalculadoraMaizoro.exe
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\bin\Debug\CalculadoraMaizoro.pdb
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro_MarkupCompile.cache
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro_MarkupCompile.lref
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.g.resources
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.Properties.Resources.resources
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.exe
+C:\Users\dai\Desktop\vsIsrael\CalculadoraMaizoro\CalculadoraMaizoro\obj\Debug\CalculadoraMaizoro.pdb
